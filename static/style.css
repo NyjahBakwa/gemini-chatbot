@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 0 16px;
+    background-color: #ffffff;
+    color: #222222;
+}
+
+.gesprek {
+    border: 1px solid #cccccc;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.bericht {
+    margin-bottom: 10px;
+}
+
+.bericht p {
+    margin: 4px 0 0 0;
+    white-space: pre-wrap;
+}
+
+.gebruiker {
+    background-color: #f2f2f2;
+    padding: 6px;
+}
+
+.ai {
+    padding: 6px;
+}
+
+textarea {
+    width: 100%;
+}
+
+button {
+    margin-top: 5px;
+}
+
+.fout {
+    color: #b00000;
+}
